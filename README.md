@@ -52,7 +52,7 @@ CRUD platform deployed on AWS (EC2, RDS, S3, Route 53). Demonstrates cloud archi
 
 ---
 
-### 📶 [SinyalKu — Mobile Network Quality Monitoring](https://github.com/albert-4183r7/sinyalku)  
+### 📶 [SinyalKu — Mobile Network Quality Monitoring](https://github.com/orgs/Sinyalku-Project/repositories)  
 End-to-end mobile and web app for monitoring and visualizing mobile network quality with heatmaps.  
 **Tech:** React Native, Leaflet.js, React.js, FastAPI, SQLAlchemy  
 **Production:** Render (backend API), Netlify (frontend dashboard), Supabase (NoSQL database)
