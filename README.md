@@ -66,12 +66,6 @@ End-to-end mobile and web app for monitoring and visualizing mobile network qual
 
 ---
 
-## 📊 GitHub Stats
-![albert4183r7's Stats](https://github-readme-stats.vercel.app/api?username=albert4183r7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![albert4183r7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=albert4183r7&theme=vue-dark&hide_border=true)
-![albert4183r7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albert4183r7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
----
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/a-albert)  
 📧 **Email:** albertlie8338@gmail.com  
