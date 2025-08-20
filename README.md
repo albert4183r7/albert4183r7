@@ -28,10 +28,10 @@
 `Express.js (Node.js)` • `Flask` • `FastAPI`  
 
 **Cloud Platforms:**  
-`AWS` • `Google Compute Engine`  
+`AWS` • `Google Compute Engine` • `Alibaba Cloud`  
 
 **Databases:**  
-`PostgreSQL` • `MySQL` • `MongoDB`  
+`PostgreSQL` • `MySQL` • `MongoDB` • `Supabase`  
 
 **AI Tools:**  
 `NumPy` • `PyTorch` • `TensorFlow` • `scikit-learn` • `OpenCV`  
@@ -54,7 +54,7 @@ CRUD platform deployed on AWS (EC2, RDS, S3, Route 53). Demonstrates cloud archi
 
 ### 📶 [SinyalKu — Mobile Network Quality Monitoring](https://github.com/orgs/Sinyalku-Project/repositories)  
 End-to-end mobile and web app for monitoring and visualizing mobile network quality with heatmaps.  
-**Tech:** React Native, Leaflet.js, React.js, FastAPI, SQLAlchemy  
+**Tech:** React Native (android), Leaflet.js, React.js (typescript), FastAPI (python), SQLAlchemy, PostgreSQL  
 **Production:** Render (backend API), Netlify (frontend dashboard), Supabase (NoSQL database)
 
 ---
