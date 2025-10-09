@@ -1,7 +1,7 @@
 # Hi, I'm Albert 👋
 
 📡 **Fresh Graduate in Telecommunication Engineering**  
-💻 Interested in **Software Development**, skilled in **Cloud Computing** and **Telecommunications**  
+💻 Interested in **Backend Development**, skilled in **Cloud Computing** and **Telecommunications**  
 🎓 Institut Teknologi Bandung | 🇮🇩 Based in Indonesia  
 📫 **Email:** albertlie8338@gmail.com  
 🔗 [🌐 Portfolio](https://albertlie-portfolio-website.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/a-albert/) • [🐙 GitHub](https://github.com/albert4183r7)
@@ -9,10 +9,10 @@
 ---
 
 ## 🌟 About Me
-- 🌱 **Currently learning:** Full-stack development (MERN) & Cloud/DevOps concepts  
+- 🌱 **Currently learning:** Full-stack development (MERN) with Cloud/DevOps concepts  
 - 🤝 **Open to collaborate on:** Cloud-based apps, scalable web platforms, AI-driven projects, and telecommunications  
 - 🎯 **Goal:** Apply my telecommunications background to solve real-world problems through software engineering  
-- 💬 **Ask me about:** GCP, AWS, React, Node.js, REST APIs, full-stack web apps, AI/ML workflows, telecommunications  
+- 💬 **Ask me about:** GCP, AWS, React, Node.js, REST APIs, full-stack web apps, AI/ML, telecommunications  
 
 ---
 
@@ -28,7 +28,7 @@
 `Express.js (Node.js)` • `Flask` • `FastAPI`  
 
 **Cloud Platforms:**  
-`AWS` • `Google Compute Engine` • `Alibaba Cloud`  
+`AWS` • `Google Cloud Platform (GCP)` • `Alibaba Cloud`  • `Oracle Cloud Infrastructure (OCI)` 
 
 **Databases:**  
 `PostgreSQL` • `MySQL` • `MongoDB` • `Supabase`  
@@ -46,6 +46,12 @@ Machine-learning mobile backend deployed on Google Compute Engine with Firestore
 
 ---
 
+### 🌏 [Global E-Commerce Cloud Architecture (Google Cloud Platform)](https://github.com/albert4183r7/gcp-global-ecommerce-architecture)  
+Designed and implemented a multi-region, scalable, and resilient cloud architecture on Google Cloud to serve a global e-commerce platform with a focus on high availability and low latency for users in Asia and Europe.
+**Tech:** Google Cloud Platform (GCP) - Compute Engine, Global HTTP(S) Load Balancer, Managed Instance Groups (MIGs), Cloud Monitoring
+
+---
+
 ### ☁️ [Cloud-Based Student Data Management System](https://github.com/albert4183r7/Cloud-Based-Student-Data-Management-System)  
 CRUD platform deployed on AWS (EC2, RDS, S3, Route 53). Demonstrates cloud architecture & API integration.  
 **Tech:** JavaScript, AWS, MySQL, Java (Maven)
@@ -60,9 +66,10 @@ End-to-end mobile and web app for monitoring and visualizing mobile network qual
 ---
 
 ## 📜 Certifications
-- 🏆 Google Cloud Associate Cloud Engineer Certification  
-- ☁️ Alibaba Cloud Certified Associate — Cloud Computing, Big Data & Database  
-- 🌐 Huawei Certified ICT Associate — Cloud Service  
+- 🏆 Google Cloud Associate Cloud Engineer Certification  (2025)
+- ☁️ Alibaba Cloud Certified Associate — Cloud Computing, Big Data & Database (2024)
+- 🌐 Huawei Certified ICT Associate — Cloud Service (2023)
+- 🅾️ Oracle Certified Foundations Associate (2025)
 
 ---
 
