@@ -44,10 +44,6 @@
 
 ### 📌 Featured Projects
 
-#### 🚀 [Egglyze — Egg Quality Classification (Capstone)](https://github.com/orgs/Capstone-Egglyze/repositories)
-> A machine learning-powered mobile backend deployed on Google Compute Engine with Firestore. Features a Flask API serving real-time predictions.
-> <br>**Tech:** `Python (Flask)` `Google Compute Engine` `Firestore` `TensorFlow` `Postman`
-
 #### 🌏 [Global E-Commerce Cloud Architecture (GCP)](https://github.com/albert4183r7/gcp-global-ecommerce-architecture)
 > A multi-region, scalable, and resilient cloud architecture on Google Cloud designed for a global e-commerce platform with a focus on high availability and low latency.
 > <br>**Tech:** `GCP` `Compute Engine` `Global HTTP(S) Load Balancer` `MIGs` `Cloud Monitoring`
@@ -55,6 +51,10 @@
 #### ☁️ [Cloud-Based Student Data Management System (AWS)](https://github.com/albert4183r7/Cloud-Based-Student-Data-Management-System)
 > A CRUD platform deployed on AWS (EC2, RDS, S3, Route 53) to demonstrate cloud architecture patterns and full-stack API integration.
 > <br>**Tech:** `JavaScript` `AWS` `MySQL` `Java (Maven)`
+
+#### 🚀 [Egglyze — Egg Quality Classification (Capstone)](https://github.com/orgs/Capstone-Egglyze/repositories)
+> A machine learning-powered mobile backend deployed on Google Compute Engine with Firestore. Features a Flask API serving real-time predictions.
+> <br>**Tech:** `Python (Flask)` `Google Compute Engine` `Firestore` `TensorFlow` `Postman`
 
 #### 📶 [SinyalKu — Mobile Network Quality Monitoring](https://github.com/orgs/Sinyalku-Project/repositories)
 > An end-to-end mobile and web app for monitoring and visualizing mobile network quality with interactive heatmaps.
