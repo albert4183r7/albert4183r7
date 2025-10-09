@@ -47,7 +47,7 @@ Machine-learning mobile backend deployed on Google Compute Engine with Firestore
 ---
 
 ### 🌏 [Global E-Commerce Cloud Architecture (Google Cloud Platform)](https://github.com/albert4183r7/gcp-global-ecommerce-architecture)  
-Designed and implemented a multi-region, scalable, and resilient cloud architecture on Google Cloud to serve a global e-commerce platform with a focus on high availability and low latency for users in Asia and Europe.
+Designed and implemented a multi-region, scalable, and resilient cloud architecture on Google Cloud to serve a global e-commerce platform with a focus on high availability and low latency for users in Asia and Europe.<br>
 **Tech:** Google Cloud Platform (GCP) - Compute Engine, Global HTTP(S) Load Balancer, Managed Instance Groups (MIGs), Cloud Monitoring
 
 ---
