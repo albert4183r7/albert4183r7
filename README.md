@@ -2,13 +2,13 @@
 
 # Hi, I'm Albert 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20232A&center=true&vCenter=true&width=750&lines=Fresh+Graduate+in+Telecommunication+Engineering;Aspiring+Cloud+Engineer+%26+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Fresh+Graduate+in+Telecommunication+Engineering;Aspiring+Cloud+Engineer+%26+Web+Developer" alt="Typing SVG" /></a>
 
 </div>
 
 <p align="center">
 <a href="https://albertlie-portfolio-website.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://www.linkedin.com/in/a-albert/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -22,13 +22,13 @@
 
 ### 🌟 About Me
 
-* 🎓 **Background:** Fresh graduate in Telecommunication Engineering, eager to apply strong analytical and systems knowledge to software development and cloud architecture.
+🎓 **Background:** Fresh graduate in Telecommunication Engineering, eager to apply strong analytical and systems knowledge to software development and cloud architecture.
 
-* 🌱 **Currently learning:** Advanced deployment strategies (CI/CD, Serverless) and modern full-stack frameworks to build high-quality applications.
+🌱 **Currently learning:** Advanced deployment strategies (CI/CD, Serverless) and modern full-stack frameworks to build high-quality applications.
 
-* 🎯 **Goal:** Secure my first professional role where I can actively contribute, learn from experienced teams, and grow rapidly as a Cloud or Web Development Engineer.
+🎯 **Goal:** Secure my first professional role where I can actively contribute, learn from experienced teams, and grow rapidly as a Cloud or Web Development Engineer.
 
-* 💡 **Interested in:** Exploring the intersection of Telecom and software, focusing on scalable Python APIs, network optimization (DRL), and building robust cloud architectures.
+💡 **Interested in:** Exploring the intersection of Telecom and software, focusing on scalable Python APIs, network optimization (Deep Reinforcement Learning), and building robust cloud architectures.
 
 ---
 
@@ -37,7 +37,7 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Backend/APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
 | **Cloud Services** | ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
@@ -87,14 +87,9 @@
 ### 📜 Certifications
 
 * 🏆 **Google Cloud Certified:** Associate Cloud Engineer (2025)
-
 * ☁️ **Alibaba Cloud Certified:** Cloud Computing, Big Data & Database Associate (2024)
-
 * 🌐 **Huawei Certified:** ICT Associate — Cloud Service (2023)
-
-* 🅾️ **Oracle Certified:** Cloud Foundations Associate (2025)
-
-* 🥇 **Oracle Certified:** Multicloud Architect Professional (2025)
+* 🅾️ **Oracle Certified:** Cloud Foundations Associate (2025) & Multicloud Architect Professional (2025)
 
 ---
 
