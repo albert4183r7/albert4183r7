@@ -47,40 +47,40 @@
 
 ### 📌 Featured Projects
 
-#### 1. 📄 AI Invoice Generator (Full-Stack MERN)
+#### 1. 📄 [AI Invoice Generator (Full-Stack MERN)](https://github.com/albert4183r7/ai-invoice-generator)
 > A complete MERN-stack application featuring a secure API endpoint that utilizes an LLM (via the Gemini API) for advanced OCR and data extraction from uploaded invoice documents, automating data entry processes.
 >
-> **Tech:** `MERN Stack` `Node.js/Express` `MongoDB` `React` `Docker` `LLM/Generative AI`
+> **Tech:** `MERN Stack` `Node.js/Express` `MongoDB` `React` `Docker` `Gemini API`
 
-#### 2. 🚗 DRL for V2V Communication Optimization (Thesis)
+#### 2. 🚗 [DRL for V2V Communication Optimization (Thesis)](https://github.com/albert4183r7/v2v-rl-optimization-dashboard)
 > Master's Thesis focused on optimizing Vehicle-to-Vehicle (V2V) communication parameters, successfully implementing and evaluating the **Soft Actor-Critic (SAC)** Deep Reinforcement Learning algorithm within a network simulation environment.
 >
 > **Tech:** `Python` `Deep Reinforcement Learning (DRL)` `SAC Algorithm` `Network Simulation`
 
-#### 3. ☁️ AWS Cloud-Based Student Data Management System
+#### 3. ☁️ [AWS Cloud-Based Student Data Management System](https://github.com/albert4183r7/Cloud-Based-Student-Data-Management-System)
 > Developed and deployed a robust full-stack CRUD application on AWS, utilizing core services like **EC2**, **RDS (MySQL)**, and **S3** to demonstrate hands-on experience in cloud infrastructure setup and management for resilient web services.
 >
-> **Tech:** `AWS (EC2, RDS, S3)` `Java/Spring Boot` `MySQL` `React` `Cloud Architecture`
+> **Tech:** `AWS (EC2, RDS, S3, Route53, IAM)` `Java/Spring Boot` `MySQL` `React` `Cloud Architecture`
 
-#### 4. 🌐 GCP Global E-Commerce Cloud Architecture
+#### 4. 🌐 [GCP Global E-Commerce Cloud Architecture](https://github.com/albert4183r7/gcp-global-ecommerce-architecture)
 > Designed a resilient, multi-region cloud architecture model on Google Cloud Platform for a high-traffic e-commerce platform, focusing on high availability, disaster recovery, and global load balancing using **Global HTTP(S) Load Balancer** and **MIGs**.
 >
-> **Tech:** `GCP` `Compute Engine` `Global HTTP(S) Load Balancer` `Multi-Region Design`
+> **Tech:** `GCP` `Compute Engine` `Global HTTP(S) Load Balancer` `Autoscaling` `Managed Instance Group ` `Multi-Region Design`
 
-#### 5. 🥚 Egglyze - Egg Quality Classification (Capstone)
+#### 5. 🥚 [Egglyze - Egg Quality Classification (Capstone)](https://github.com/Capstone-Egglyze/Cloud-Computing)
 > Engineered an end-to-end Capstone solution for egg quality classification based on shell analysis, featuring a REST API built with **Python/Flask** deployed on **Google Compute Engine** that serves predictions from pre-trained image classification models.
 >
-> **Tech:** `Python (Flask)` `GCP Compute Engine` `Firestore` `TensorFlow` `Machine Learning`
+> **Tech:** `Python (Flask)` `GCP Compute Engine` `Firestore` `Postman API`
 
-#### 6. 📰 Sentiment Analysis for Hoax Detection (LSTM & BERT)
+#### 6. 📰 [Sentiment Analysis for Hoax Detection (LSTM & BERT)](https://github.com/albert4183r7/hoax-detection-NLP)
 > Applied Deep Learning techniques for Natural Language Processing (NLP) to detect textual hoaxes. The project compared performance between traditional **LSTM** networks and context-aware **BERT** (Bidirectional Encoder Representations from Transformers) models.
 >
 > **Tech:** `Python` `Deep Learning` `LSTM` `BERT` `NLP` `TensorFlow`
 
-#### 7. 📶 SinyalKu - Mobile Network Signal Monitoring
+#### 7. 📶 [SinyalKu - Mobile Network Signal Monitoring](https://github.com/orgs/Sinyalku-Project/repositories)
 > Built an end-to-end system for mobile network signal monitoring, featuring a **React Native** mobile app for data collection and a centralized web dashboard utilizing **FastAPI** and **PostgreSQL** to visualize network quality via interactive geospatial maps.
 >
-> **Tech:** `React Native` `FastAPI` `PostgreSQL` `Geospatial Data` `Network Monitoring`
+> **Tech:** `React Native (Android)` `FastAPI` `Supabase` `Geospatial Data`
 
 ---
 
