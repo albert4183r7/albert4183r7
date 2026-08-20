@@ -1,5 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1f5c6bc6-f75e-44e3-b0bf-951c215ad480" /><div align="center">
-
 # Hi, I'm Albert 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Fresh+Graduate+in+Telecommunication+Engineering;Aspiring+Solution+Architect+%26+Cloud+Engineer" alt="Typing SVG" /></a>
