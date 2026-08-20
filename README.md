@@ -1,8 +1,8 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1f5c6bc6-f75e-44e3-b0bf-951c215ad480" /><div align="center">
 
 # Hi, I'm Albert 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Fresh+Graduate+in+Telecommunication+Engineering;Aspiring+Cloud+Engineer+%26+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Fresh+Graduate+in+Telecommunication+Engineering;Aspiring+Solution+Architect+%26+Cloud+Engineer" alt="Typing SVG" /></a>
 
 </div>
 
@@ -24,9 +24,9 @@
 
 🎓 **Background:** Fresh graduate in Telecommunication Engineering, eager to apply strong analytical and systems knowledge to software development and cloud architecture.
 
-🌱 **Currently learning:** Advanced deployment strategies (CI/CD, Serverless) and modern full-stack frameworks to build high-quality applications.
+🌱 **Currently learning:** deployment strategies (CI/CD, Serverless) and system design to build high-quality applications.
 
-🎯 **Goal:** Secure my first professional role where I can actively contribute, learn from experienced teams, and grow rapidly as a Cloud or Web Development Engineer.
+🎯 **Goal:** Secure my first professional role where I can actively contribute, learn from experienced teams, and grow rapidly as a Solution Architect.
 
 💡 **Interested in:** Exploring the intersection of Telecom and software, focusing on scalable Python APIs, network optimization (Deep Reinforcement Learning), and building robust cloud architectures.
 
@@ -86,10 +86,11 @@
 
 ### 📜 Certifications
 
+* Ⓜ️ **Microsoft Certified:** Azure AI Engineer Associate (2026)
 * 🏆 **Google Cloud Certified:** Associate Cloud Engineer (2025)
+* * 🅾️ **Oracle Certified:** Agentic AI Certified Foundations Associate (2026), Cloud Foundations Associate (2025), Multicloud Architect Professional (2025)
 * ☁️ **Alibaba Cloud Certified:** Cloud Computing, Big Data & Database Associate (2024)
 * 🌐 **Huawei Certified:** ICT Associate — Cloud Service (2023)
-* 🅾️ **Oracle Certified:** Cloud Foundations Associate (2025) & Multicloud Architect Professional (2025)
 
 ---
 
