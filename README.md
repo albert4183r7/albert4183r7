@@ -75,11 +75,6 @@
 >
 > **Tech:** `Python` `Deep Learning` `LSTM` `BERT` `NLP` `TensorFlow`
 
-#### 7. 📶 [SinyalKu - Mobile Network Signal Monitoring](https://github.com/orgs/Sinyalku-Project/repositories)
-> Built an end-to-end system for mobile network signal monitoring, featuring a **React Native** mobile app for data collection and a centralized web dashboard utilizing **FastAPI** and **PostgreSQL** to visualize network quality via interactive geospatial maps.
->
-> **Tech:** `React Native (Android)` `FastAPI` `Supabase` `Geospatial Data`
-
 ---
 
 ### 📜 Certifications
