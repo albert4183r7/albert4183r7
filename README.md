@@ -81,7 +81,7 @@
 
 * Ⓜ️ **Microsoft Certified:** Azure AI Engineer Associate (2026)
 * 🏆 **Google Cloud Certified:** Associate Cloud Engineer (2025)
-* * 🅾️ **Oracle Certified:** Agentic AI Certified Foundations Associate (2026), Cloud Foundations Associate (2025), Multicloud Architect Professional (2025)
+* 🅾️ **Oracle Certified:** Agentic AI Certified Foundations Associate (2026), Cloud Foundations Associate (2025), Multicloud Architect Professional (2025)
 * ☁️ **Alibaba Cloud Certified:** Cloud Computing, Big Data & Database Associate (2024)
 * 🌐 **Huawei Certified:** ICT Associate — Cloud Service (2023)
 
