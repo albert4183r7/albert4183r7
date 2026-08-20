@@ -53,7 +53,7 @@
 > **Tech:** `MERN Stack` `Node.js/Express` `MongoDB` `React` `Docker` `Gemini API`
 
 #### 2. 🚗 [DRL for V2V Communication Optimization (Thesis)](https://github.com/albert4183r7/v2v-rl-optimization-dashboard)
-> Master's Thesis focused on optimizing Vehicle-to-Vehicle (V2V) communication parameters, successfully implementing and evaluating the **Soft Actor-Critic (SAC)** Deep Reinforcement Learning algorithm within a network simulation environment.
+> Bachelor's Thesis focused on optimizing Vehicle-to-Vehicle (V2V) communication parameters, successfully implementing and evaluating the **Soft Actor-Critic (SAC)** Deep Reinforcement Learning algorithm within a network simulation environment.
 >
 > **Tech:** `Python` `Deep Reinforcement Learning (DRL)` `SAC Algorithm` `Network Simulation`
 
